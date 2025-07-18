@@ -13,7 +13,8 @@ dependencies:
   universal_html: ^2.0.8
   ffi: ^2.0.1
   image: ^3.1.1
-  flutter_gl: ^0.0.20
+  flutter_gl:
+    path: ../flutter_gl_flutterflow/flutter_gl
   crypto: ^3.0.1
   meta:
   
@@ -30,9 +31,9 @@ dependencies:
 
 dependency_overrides:
   three_dart_jsm:
-    path: ../three_dart_jsm
+    path: ../three_dart_jsm_flutterflow
   flutter_gl:
-    path: ../flutter_gl/flutter_gl
+    path: ../flutter_gl_flutterflow/flutter_gl
 
 dev_dependencies:
   flutter_test:

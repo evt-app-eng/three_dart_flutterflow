@@ -1,6 +1,7 @@
 // ignore: avoid_web_libraries_in_flutter
 import 'dart:html';
 import 'dart:ui' as ui;
+import 'dart:ui_web' as ui_web;
 import 'package:flutter/material.dart';
 
 class AppDebug2 extends StatefulWidget {
@@ -25,8 +26,8 @@ class AppDebug2State extends State<AppDebug2> {
   }
 
   init() {
-    // ignore: undefined_prefixed_name
-    ui.platformViewRegistry.registerViewFactory(divId, (int viewId) {
+    // Use the new dart:ui_web API to register the platform view
+    ui_web.platformViewRegistry.registerViewFactory(divId, (int viewId) {
       element = CanvasElement(width: 300, height: 300)..id = 'canvas-id';
 
       print(" set element ");
