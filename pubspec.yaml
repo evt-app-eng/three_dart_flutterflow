@@ -30,11 +30,8 @@ dependencies:
   # flutter_webgpu:
   #   path: ../flutter_webgpu
 
-dependency_overrides:
-  three_dart_jsm_flutterflow:
-    path: ../three_dart_jsm_flutterflow
-  flutter_gl_flutterflow:
-    path: ../flutter_gl_flutterflow/flutter_gl
+# dependency_overrides:
+  # Removed for pub.dev publishing - will use published versions
 
 dev_dependencies:
   flutter_test:

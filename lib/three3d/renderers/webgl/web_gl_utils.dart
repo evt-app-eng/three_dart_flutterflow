@@ -1,6 +1,6 @@
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/renderers/webgl/index.dart';
-import 'package:three_dart/extra/console.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/index.dart';
+import 'package:three_dart_flutterflow/extra/console.dart';
 
 class WebGLUtils {
   bool isWebGL2 = true;

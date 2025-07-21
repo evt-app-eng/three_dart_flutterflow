@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/animation/property_binding.dart';
-import 'package:three_dart/three3d/math/quaternion.dart';
+import 'package:three_dart_flutterflow/three3d/animation/property_binding.dart';
+import 'package:three_dart_flutterflow/three3d/math/quaternion.dart';
 
 class PropertyMixer {
   late PropertyBinding binding;

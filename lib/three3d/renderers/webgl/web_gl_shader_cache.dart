@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/materials/index.dart';
+import 'package:three_dart_flutterflow/three3d/materials/index.dart';
 
 int _id = 0;
 

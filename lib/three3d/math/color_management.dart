@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 double sRGBToLinear(double c) {
   return (c < 0.04045) ? c * 0.0773993808 : Math.pow(c * 0.9478672986 + 0.0521327014, 2.4).toDouble();

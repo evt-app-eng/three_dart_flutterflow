@@ -1,11 +1,11 @@
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
-import 'package:flutter_gl/flutter_gl.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
 import 'package:image/image.dart';
-import 'package:three_dart/extra/blob.dart';
-import 'package:three_dart/three3d/loaders/index.dart';
-import 'package:three_dart/three3d/textures/index.dart';
+import 'package:three_dart_flutterflow/extra/blob.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/index.dart';
+import 'package:three_dart_flutterflow/three3d/textures/index.dart';
 
 class TextureLoader extends Loader {
   TextureLoader(manager) : super(manager);

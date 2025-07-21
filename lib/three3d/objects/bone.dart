@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/core/object_3d.dart';
+import 'package:three_dart_flutterflow/three3d/core/object_3d.dart';
 
 class Bone extends Object3D {
   Bone() : super() {

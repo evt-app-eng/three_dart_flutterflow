@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/math/vector3.dart';
+import 'package:three_dart_flutterflow/three3d/math/vector3.dart';
 
 /// Primary reference:
 ///   https://graphics.stanford.edu/papers/envmap/envmap.pdf

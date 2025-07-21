@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/extras/core/shape.dart';
-import 'package:three_dart/three3d/extras/core/shape_path.dart';
+import 'package:three_dart_flutterflow/three3d/extras/core/shape.dart';
+import 'package:three_dart_flutterflow/three3d/extras/core/shape_path.dart';
 
 class Font {
   String type = 'Font';

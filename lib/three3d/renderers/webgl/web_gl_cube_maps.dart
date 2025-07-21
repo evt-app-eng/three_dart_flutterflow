@@ -1,8 +1,8 @@
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/renderers/web_gl_cube_render_target.dart';
-import 'package:three_dart/three3d/renderers/web_gl_renderer.dart';
-import 'package:three_dart/three3d/textures/index.dart';
-import 'package:three_dart/three3d/weak_map.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/web_gl_cube_render_target.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/web_gl_renderer.dart';
+import 'package:three_dart_flutterflow/three3d/textures/index.dart';
+import 'package:three_dart_flutterflow/three3d/weak_map.dart';
 
 class WebGLCubeMaps {
   WebGLRenderer renderer;

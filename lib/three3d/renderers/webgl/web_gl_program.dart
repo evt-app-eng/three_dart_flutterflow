@@ -1,10 +1,10 @@
 import 'dart:io';
 
 import 'package:flutter/foundation.dart';
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/renderers/shaders/index.dart';
-import 'package:three_dart/three3d/renderers/web_gl_renderer.dart';
-import 'package:three_dart/three3d/renderers/webgl/index.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/shaders/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/web_gl_renderer.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/index.dart';
 
 int programIdCount = 0;
 

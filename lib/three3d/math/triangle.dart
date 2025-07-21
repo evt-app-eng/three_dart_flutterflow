@@ -1,7 +1,7 @@
-import 'package:three_dart/three3d/math/box3.dart';
-import 'package:three_dart/three3d/math/math.dart';
-import 'package:three_dart/three3d/math/plane.dart';
-import 'package:three_dart/three3d/math/vector3.dart';
+import 'package:three_dart_flutterflow/three3d/math/box3.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/math/plane.dart';
+import 'package:three_dart_flutterflow/three3d/math/vector3.dart';
 
 class Triangle {
   static final _v0 = /*@__PURE__*/ Vector3.init();

@@ -1,9 +1,9 @@
-import 'package:three_dart/three3d/animation/animation_clip.dart';
-import 'package:three_dart/three3d/animation/animation_mixer.dart';
-import 'package:three_dart/three3d/animation/property_mixer.dart';
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/animation/animation_clip.dart';
+import 'package:three_dart_flutterflow/three3d/animation/animation_mixer.dart';
+import 'package:three_dart_flutterflow/three3d/animation/property_mixer.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class AnimationAction {
   late num time;

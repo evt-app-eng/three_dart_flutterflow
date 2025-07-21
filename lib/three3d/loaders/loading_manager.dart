@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/loaders/loader.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/loader.dart';
 
 class LoadingManager {
   bool isLoading = false;

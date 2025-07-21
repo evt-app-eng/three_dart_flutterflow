@@ -1,9 +1,9 @@
-import 'package:three_dart/three3d/dart_helpers.dart';
-import 'package:three_dart/three3d/lights/index.dart';
-import 'package:three_dart/three3d/math/index.dart';
-import 'package:three_dart/three3d/renderers/shaders/index.dart';
-import 'package:three_dart/three3d/renderers/webgl/web_gl_capabilities.dart';
-import 'package:three_dart/three3d/renderers/webgl/web_gl_extensions.dart';
+import 'package:three_dart_flutterflow/three3d/dart_helpers.dart';
+import 'package:three_dart_flutterflow/three3d/lights/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/shaders/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/web_gl_capabilities.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/web_gl_extensions.dart';
 
 class UniformsCache {
   UniformsCache();

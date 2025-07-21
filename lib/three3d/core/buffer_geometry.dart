@@ -1,12 +1,12 @@
 import 'dart:convert';
 
-import 'package:flutter_gl/flutter_gl.dart';
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/extras/index.dart';
-import 'package:three_dart/three3d/geometries/index.dart';
-import 'package:three_dart/three3d/math/index.dart';
-import 'package:three_dart/three3d/utils.dart';
-import 'package:three_dart/extra/console.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/extras/index.dart';
+import 'package:three_dart_flutterflow/three3d/geometries/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/utils.dart';
+import 'package:three_dart_flutterflow/extra/console.dart';
 
 int _bufferGeometryId = 1; // BufferGeometry uses odd numbers as Id
 

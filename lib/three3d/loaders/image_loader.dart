@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:three_dart/three3d/loaders/cache.dart';
-import 'package:three_dart/three3d/loaders/loader.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/cache.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/loader.dart';
 import 'image_loader_for_app.dart' if (dart.library.js) 'image_loader_for_web.dart';
 
 class ImageLoader extends Loader {

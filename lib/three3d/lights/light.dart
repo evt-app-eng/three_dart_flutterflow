@@ -1,7 +1,7 @@
-import 'package:three_dart/three3d/core/object_3d.dart';
-import 'package:three_dart/three3d/lights/light_shadow.dart';
-import 'package:three_dart/three3d/math/color.dart';
-import 'package:three_dart/three3d/math/spherical_harmonics3.dart';
+import 'package:three_dart_flutterflow/three3d/core/object_3d.dart';
+import 'package:three_dart_flutterflow/three3d/lights/light_shadow.dart';
+import 'package:three_dart_flutterflow/three3d/math/color.dart';
+import 'package:three_dart_flutterflow/three3d/math/spherical_harmonics3.dart';
 
 class Light extends Object3D {
   late double intensity;

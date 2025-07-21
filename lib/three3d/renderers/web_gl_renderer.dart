@@ -1,16 +1,16 @@
-import 'package:three_dart/three3d/cameras/index.dart';
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/lights/index.dart';
-import 'package:three_dart/three3d/materials/index.dart';
-import 'package:three_dart/three3d/math/index.dart';
-import 'package:three_dart/three3d/objects/index.dart';
-import 'package:three_dart/three3d/renderers/web_gl_render_target.dart';
-import 'package:three_dart/three3d/renderers/webgl/index.dart';
-import 'package:three_dart/three3d/renderers/webxr/web_xr_manager.dart';
-import 'package:three_dart/three3d/scenes/index.dart';
-import 'package:three_dart/three3d/textures/index.dart';
-import 'package:three_dart/extra/console.dart';
+import 'package:three_dart_flutterflow/three3d/cameras/index.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/lights/index.dart';
+import 'package:three_dart_flutterflow/three3d/materials/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/objects/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/web_gl_render_target.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webxr/web_xr_manager.dart';
+import 'package:three_dart_flutterflow/three3d/scenes/index.dart';
+import 'package:three_dart_flutterflow/three3d/textures/index.dart';
+import 'package:three_dart_flutterflow/extra/console.dart';
 
 class WebGLRenderer {
   late Map<String, dynamic> parameters;

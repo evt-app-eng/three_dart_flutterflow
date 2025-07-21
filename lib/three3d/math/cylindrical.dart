@@ -2,8 +2,8 @@
  * Ref: https://en.wikipedia.org/wiki/Cylindrical_coordinate_system
  */
 
-import 'package:three_dart/three3d/math/math.dart';
-import 'package:three_dart/three3d/math/vector3.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/math/vector3.dart';
 
 class Cylindrical {
   late num radius;

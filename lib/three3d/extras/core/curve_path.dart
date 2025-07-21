@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/extras/core/curve.dart';
-import 'package:three_dart/three3d/extras/curves/line_curve.dart';
+import 'package:three_dart_flutterflow/three3d/extras/core/curve.dart';
+import 'package:three_dart_flutterflow/three3d/extras/curves/line_curve.dart';
 
 /// ************************************************************
 ///	Curved Path - a curve path is simply a array of connected

@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/extras/core/curve.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/extras/core/curve.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class LineCurve extends Curve {
   LineCurve(Vector2 v1, Vector2 v2) {

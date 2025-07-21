@@ -43,7 +43,7 @@
 
 // Root Container
 
-import 'package:three_dart/three3d/renderers/webgl/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/index.dart';
 
 class WebGLUniforms with WebGLUniform {
   dynamic gl;

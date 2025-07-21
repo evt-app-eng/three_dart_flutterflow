@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:three_dart/extra/blob.dart';
+import 'package:three_dart_flutterflow/extra/blob.dart';
 import 'dart:html' as html;
 
 class ImageLoaderLoader {

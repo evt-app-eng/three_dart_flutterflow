@@ -1,7 +1,7 @@
-import 'package:three_dart/three3d/core/object_3d.dart';
-import 'package:three_dart/three3d/lights/light.dart';
-import 'package:three_dart/three3d/lights/spot_light_shadow.dart';
-import 'package:three_dart/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/core/object_3d.dart';
+import 'package:three_dart_flutterflow/three3d/lights/light.dart';
+import 'package:three_dart_flutterflow/three3d/lights/spot_light_shadow.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
 
 class SpotLight extends Light {
   SpotLight(color, [intensity, double? distance, angle, penumbra, decay]) : super(color, intensity) {

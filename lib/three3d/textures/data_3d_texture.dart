@@ -1,7 +1,7 @@
-import 'package:flutter_gl/flutter_gl.dart';
-import 'package:three_dart/three3d/textures/texture.dart';
-import 'package:three_dart/three3d/textures/image_element.dart';
-import 'package:three_dart/three3d/constants.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
+import 'package:three_dart_flutterflow/three3d/textures/texture.dart';
+import 'package:three_dart_flutterflow/three3d/textures/image_element.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
 
 class Data3DTexture extends Texture {
   bool isDataTexture3D = true;

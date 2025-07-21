@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 /// Port from https://github.com/mapbox/earcut (v2.2.2)
 

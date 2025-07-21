@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/geometries/polyhedron_geometry.dart';
+import 'package:three_dart_flutterflow/three3d/geometries/polyhedron_geometry.dart';
 
 class TetrahedronGeometry extends PolyhedronGeometry {
   TetrahedronGeometry.create(

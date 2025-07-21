@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/math/interpolant.dart';
+import 'package:three_dart_flutterflow/three3d/math/interpolant.dart';
 
 class LinearInterpolant extends Interpolant {
   LinearInterpolant(parameterPositions, sampleValues, sampleSize, resultBuffer)

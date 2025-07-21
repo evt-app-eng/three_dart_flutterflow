@@ -1,7 +1,7 @@
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/loaders/file_loader.dart';
-import 'package:three_dart/three3d/loaders/loader.dart';
-import 'package:three_dart/three3d/textures/index.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/file_loader.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/loader.dart';
+import 'package:three_dart_flutterflow/three3d/textures/index.dart';
 
 /// Abstract Base class to load generic binary textures formats (rgbe, hdr, ...)
 ///

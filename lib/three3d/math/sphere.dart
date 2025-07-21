@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class Sphere {
   late Vector3 center;

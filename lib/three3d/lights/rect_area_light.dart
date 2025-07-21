@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/core/object_3d.dart';
-import 'package:three_dart/three3d/lights/light.dart';
+import 'package:three_dart_flutterflow/three3d/core/object_3d.dart';
+import 'package:three_dart_flutterflow/three3d/lights/light.dart';
 
 class RectAreaLight extends Light {
   RectAreaLight(color, intensity, width, height) : super(color, intensity) {

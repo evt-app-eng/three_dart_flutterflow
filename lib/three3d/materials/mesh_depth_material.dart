@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/materials/material.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/materials/material.dart';
 
 class MeshDepthMaterial extends Material {
   MeshDepthMaterial([Map<String, dynamic>? parameters]) : super() {

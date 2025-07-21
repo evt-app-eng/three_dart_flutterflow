@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/core/buffer_attribute.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/core/buffer_attribute.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class Vector4 {
   String type = "Vector4";

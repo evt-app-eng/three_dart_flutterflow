@@ -1,10 +1,10 @@
-import 'package:three_dart/three3d/core/buffer_attribute.dart';
-import 'package:three_dart/three3d/math/euler.dart';
-import 'package:three_dart/three3d/math/math.dart';
-import 'package:three_dart/three3d/math/math_utils.dart';
-import 'package:three_dart/three3d/math/matrix3.dart';
-import 'package:three_dart/three3d/math/matrix4.dart';
-import 'package:three_dart/three3d/math/quaternion.dart';
+import 'package:three_dart_flutterflow/three3d/core/buffer_attribute.dart';
+import 'package:three_dart_flutterflow/three3d/math/euler.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/math/math_utils.dart';
+import 'package:three_dart_flutterflow/three3d/math/matrix3.dart';
+import 'package:three_dart_flutterflow/three3d/math/matrix4.dart';
+import 'package:three_dart_flutterflow/three3d/math/quaternion.dart';
 
 var _vector3 = Vector3(0, 0, 0);
 

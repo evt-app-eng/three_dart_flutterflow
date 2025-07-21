@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/extras/core/shape_path.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/extras/core/shape_path.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 double degsToRads = Math.pi / 180;
 num digit0 = 48, digit9 = 57, comma = 44, space = 32, period = 46, minus = 45;

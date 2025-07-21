@@ -1,7 +1,7 @@
-import 'package:three_dart/three3d/extras/core/shape.dart';
-import 'package:three_dart/three3d/extras/core/shape_path.dart';
-import 'package:three_dart/three3d/extras/core/ttf_font.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/extras/core/shape.dart';
+import 'package:three_dart_flutterflow/three3d/extras/core/shape_path.dart';
+import 'package:three_dart_flutterflow/three3d/extras/core/ttf_font.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class TYPRFont extends Font {
   TYPRFont(data) {

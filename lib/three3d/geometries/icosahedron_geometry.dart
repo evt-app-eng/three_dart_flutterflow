@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/geometries/polyhedron_geometry.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/geometries/polyhedron_geometry.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class IcosahedronGeometry extends PolyhedronGeometry {
   IcosahedronGeometry.create(

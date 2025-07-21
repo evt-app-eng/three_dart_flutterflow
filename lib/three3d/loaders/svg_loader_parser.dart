@@ -1,6 +1,6 @@
-import 'package:three_dart/three3d/dart_helpers.dart';
-import 'package:three_dart/three3d/extras/index.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/dart_helpers.dart';
+import 'package:three_dart_flutterflow/three3d/extras/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 import 'package:universal_html/parsing.dart';
 
 class SVGLoaderParser {

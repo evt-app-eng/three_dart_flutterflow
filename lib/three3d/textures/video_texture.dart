@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/textures/texture.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/textures/texture.dart';
 
 class VideoTexture extends Texture {
   VideoTexture(video, mapping, wrapS, wrapT, magFilter, minFilter, format, type, anisotropy)

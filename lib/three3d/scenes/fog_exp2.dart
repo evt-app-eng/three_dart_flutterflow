@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/math/index.dart';
-import 'package:three_dart/three3d/scenes/fog.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/scenes/fog.dart';
 
 class FogExp2 extends FogBase {
   late num density;

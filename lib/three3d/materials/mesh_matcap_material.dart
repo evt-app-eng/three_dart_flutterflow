@@ -1,7 +1,7 @@
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/materials/material.dart';
-import 'package:three_dart/three3d/math/color.dart';
-import 'package:three_dart/three3d/math/vector2.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/materials/material.dart';
+import 'package:three_dart_flutterflow/three3d/math/color.dart';
+import 'package:three_dart_flutterflow/three3d/math/vector2.dart';
 
 class MeshMatcapMaterial extends Material {
   MeshMatcapMaterial([Map<String, dynamic>? parameters]) : super() {

@@ -1,6 +1,6 @@
-import 'package:three_dart/three3d/animation/keyframe_track.dart';
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/math/interpolants/quaternion_linear_interpolant.dart';
+import 'package:three_dart_flutterflow/three3d/animation/keyframe_track.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/math/interpolants/quaternion_linear_interpolant.dart';
 
 import '../../math/interpolant.dart';
 

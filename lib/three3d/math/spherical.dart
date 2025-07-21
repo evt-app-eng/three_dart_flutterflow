@@ -5,8 +5,8 @@
  * The azimuthal angle (theta) is measured from the positive z-axis.
  */
 
-import 'package:three_dart/three3d/math/math.dart';
-import 'package:three_dart/three3d/math/math_utils.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/math/math_utils.dart';
 
 class Spherical {
   late num radius;

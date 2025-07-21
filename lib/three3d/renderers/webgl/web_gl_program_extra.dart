@@ -1,8 +1,8 @@
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/math/math.dart';
-import 'package:three_dart/three3d/renderers/shaders/index.dart';
-import 'package:three_dart/three3d/renderers/webgl/web_gl_parameters.dart';
-import 'package:three_dart/three3d/renderers/webgl/web_gl_shader.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/shaders/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/web_gl_parameters.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/web_gl_shader.dart';
 
 class WebGLProgramExtra {
   handleSource(String string, int errorLine) {

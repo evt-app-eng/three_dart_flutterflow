@@ -7,22 +7,22 @@ library three_loaders;
 
 // import 'package:flutter/foundation.dart';
 // import 'package:flutter/services.dart';
-// import 'package:flutter_gl/flutter_gl.dart';
+// import 'package:flutter_gl_flutterflow/flutter_gl.dart';
 // import 'package:image/image.dart' hide Color;
-// import 'package:three_dart/extra/blob.dart';
-// import 'package:three_dart/three3d/animation/index.dart';
-// import 'package:three_dart/three3d/cameras/index.dart';
-// import 'package:three_dart/three3d/constants.dart';
-// import 'package:three_dart/three3d/core/index.dart';
-// import 'package:three_dart/three3d/dart_helpers.dart';
-// import 'package:three_dart/three3d/extras/index.dart';
-// import 'package:three_dart/three3d/geometries/index.dart';
-// import 'package:three_dart/three3d/lights/index.dart';
-// import 'package:three_dart/three3d/materials/index.dart';
-// import 'package:three_dart/three3d/math/index.dart' hide Matrix4;
+// import 'package:three_dart_flutterflow/extra/blob.dart';
+// import 'package:three_dart_flutterflow/three3d/animation/index.dart';
+// import 'package:three_dart_flutterflow/three3d/cameras/index.dart';
+// import 'package:three_dart_flutterflow/three3d/constants.dart';
+// import 'package:three_dart_flutterflow/three3d/core/index.dart';
+// import 'package:three_dart_flutterflow/three3d/dart_helpers.dart';
+// import 'package:three_dart_flutterflow/three3d/extras/index.dart';
+// import 'package:three_dart_flutterflow/three3d/geometries/index.dart';
+// import 'package:three_dart_flutterflow/three3d/lights/index.dart';
+// import 'package:three_dart_flutterflow/three3d/materials/index.dart';
+// import 'package:three_dart_flutterflow/three3d/math/index.dart' hide Matrix4;
 
 // // for MaterialLoader Matrix4. why conflicts with flutter Matrix4 ???
-// import 'package:three_dart/three3d/math/index.dart' as mathmath;
+// import 'package:three_dart_flutterflow/three3d/math/index.dart' as mathmath;
 
 export 'loading_manager.dart';
 export 'loader.dart';

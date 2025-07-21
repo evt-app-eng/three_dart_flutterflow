@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/materials/material.dart';
-import 'package:three_dart/three3d/math/color.dart';
+import 'package:three_dart_flutterflow/three3d/materials/material.dart';
+import 'package:three_dart_flutterflow/three3d/math/color.dart';
 
 class LineBasicMaterial extends Material {
   LineBasicMaterial([Map<String, dynamic>? parameters]) : super() {

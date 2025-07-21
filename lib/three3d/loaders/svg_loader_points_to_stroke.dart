@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/dart_helpers.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/dart_helpers.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class SVGLoaderPointsToStroke {
   var tempV2_1 = Vector2(null, null);

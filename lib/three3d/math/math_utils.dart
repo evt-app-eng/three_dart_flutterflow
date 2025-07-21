@@ -1,6 +1,6 @@
-import 'package:flutter_gl/flutter_gl.dart';
-import 'package:three_dart/three3d/math/math.dart';
-import 'package:three_dart/three3d/math/uuid.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/math/uuid.dart';
 
 var _seed = 1234567;
 

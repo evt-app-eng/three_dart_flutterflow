@@ -1,10 +1,10 @@
 import 'dart:convert';
 
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/core/event_dispatcher.dart';
-import 'package:three_dart/three3d/core/object_3d.dart';
-import 'package:three_dart/three3d/math/index.dart';
-import 'package:three_dart/three3d/textures/index.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/core/event_dispatcher.dart';
+import 'package:three_dart_flutterflow/three3d/core/object_3d.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/textures/index.dart';
 
 int materialId = 0;
 

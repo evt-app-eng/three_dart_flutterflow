@@ -1,10 +1,10 @@
 import 'dart:convert';
 
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/materials/index.dart';
-import 'package:three_dart/three3d/math/index.dart';
-import 'package:three_dart/three3d/objects/skinned_mesh.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/materials/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/objects/skinned_mesh.dart';
 
 var _meshinverseMatrix = Matrix4();
 var _meshray = Ray(null, null);

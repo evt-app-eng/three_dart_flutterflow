@@ -1,8 +1,8 @@
-import 'package:three_dart/extra/console.dart';
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/materials/index.dart';
-import 'package:three_dart/three3d/objects/index.dart';
-import 'package:three_dart/three3d/renderers/webgl/index.dart';
+import 'package:three_dart_flutterflow/extra/console.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/materials/index.dart';
+import 'package:three_dart_flutterflow/three3d/objects/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/index.dart';
 
 class WebGLBindingStates {
   dynamic gl;

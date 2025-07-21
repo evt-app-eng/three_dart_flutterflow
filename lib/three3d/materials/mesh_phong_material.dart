@@ -1,6 +1,6 @@
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/materials/material.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/materials/material.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class MeshPhongMaterial extends Material {
   MeshPhongMaterial([Map<String, dynamic>? parameters]) : super() {

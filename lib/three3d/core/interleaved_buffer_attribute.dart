@@ -1,7 +1,7 @@
-import 'package:flutter_gl/flutter_gl.dart';
-import 'package:three_dart/three3d/core/buffer_attribute.dart';
-import 'package:three_dart/three3d/core/interleaved_buffer.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
+import 'package:three_dart_flutterflow/three3d/core/buffer_attribute.dart';
+import 'package:three_dart_flutterflow/three3d/core/interleaved_buffer.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 var _vector = Vector3.init();
 

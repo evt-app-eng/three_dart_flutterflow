@@ -1,11 +1,11 @@
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/core/layers.dart';
-import 'package:three_dart/three3d/materials/index.dart';
-import 'package:three_dart/three3d/objects/index.dart';
-import 'package:three_dart/three3d/renderers/shaders/index.dart';
-import 'package:three_dart/three3d/renderers/web_gl_renderer.dart';
-import 'package:three_dart/three3d/renderers/webgl/index.dart';
-import 'package:three_dart/three3d/textures/index.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/core/layers.dart';
+import 'package:three_dart_flutterflow/three3d/materials/index.dart';
+import 'package:three_dart_flutterflow/three3d/objects/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/shaders/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/web_gl_renderer.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/index.dart';
+import 'package:three_dart_flutterflow/three3d/textures/index.dart';
 
 class WebGLPrograms {
   var shaderIDs = {

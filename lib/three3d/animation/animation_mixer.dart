@@ -1,11 +1,11 @@
-import 'package:three_dart/three3d/animation/animation_action.dart';
-import 'package:three_dart/three3d/animation/animation_clip.dart';
-import 'package:three_dart/three3d/animation/property_binding.dart';
-import 'package:three_dart/three3d/animation/property_mixer.dart';
-import 'package:three_dart/three3d/core/event_dispatcher.dart';
-import 'package:three_dart/three3d/dart_helpers.dart';
-import 'package:three_dart/three3d/math/index.dart';
-import 'package:three_dart/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/animation/animation_action.dart';
+import 'package:three_dart_flutterflow/three3d/animation/animation_clip.dart';
+import 'package:three_dart_flutterflow/three3d/animation/property_binding.dart';
+import 'package:three_dart_flutterflow/three3d/animation/property_mixer.dart';
+import 'package:three_dart_flutterflow/three3d/core/event_dispatcher.dart';
+import 'package:three_dart_flutterflow/three3d/dart_helpers.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
 
 class AnimationMixer with EventDispatcher {
   num time = 0.0;

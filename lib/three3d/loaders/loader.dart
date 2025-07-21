@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/loaders/loading_manager.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/loading_manager.dart';
 
 abstract class Loader {
   late LoadingManager manager;

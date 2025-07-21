@@ -5,7 +5,7 @@
 
 // import 'package:flutter/widgets.dart';
 
-// import 'package:three_dart/three_dart.dart' as three;
+// import 'package:three_dart_flutterflow/three_dart.dart' as three;
 // import 'package:three_dart_jsm/three_dart_jsm.dart' as three_jsm;
 
 // class webgpu_rtt extends StatefulWidget {

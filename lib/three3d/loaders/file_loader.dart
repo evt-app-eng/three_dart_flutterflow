@@ -4,8 +4,8 @@ import 'dart:convert' as convert;
 import 'package:http/http.dart' as http;
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:three_dart/three3d/loaders/cache.dart';
-import 'package:three_dart/three3d/loaders/loader.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/cache.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/loader.dart';
 
 var loading = {};
 

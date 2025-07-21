@@ -1,9 +1,9 @@
 // ignore_for_file: unnecessary_new
 
-import 'package:flutter_gl/native-array/index.dart';
+import 'package:flutter_gl_flutterflow/native-array/index.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 var degToRad = Math.pi / 180;
 

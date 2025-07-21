@@ -1,13 +1,13 @@
 import 'dart:async';
 
-import 'package:flutter_gl/flutter_gl.dart';
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/extras/index.dart';
-import 'package:three_dart/three3d/loaders/file_loader.dart';
-import 'package:three_dart/three3d/loaders/loader.dart';
-import 'package:three_dart/three3d/loaders/svg_loader_parser.dart';
-import 'package:three_dart/three3d/loaders/svg_loader_points_to_stroke.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/extras/index.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/file_loader.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/loader.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/svg_loader_parser.dart';
+import 'package:three_dart_flutterflow/three3d/loaders/svg_loader_points_to_stroke.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class SVGLoader extends Loader {
   // Default dots per inch

@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
-import 'package:three_dart/three3d/cameras/camera.dart';
-import 'package:three_dart/three3d/lights/light.dart';
-import 'package:three_dart/three3d/math/index.dart';
-import 'package:three_dart/three3d/renderers/web_gl_render_target.dart';
+import 'package:three_dart_flutterflow/three3d/cameras/camera.dart';
+import 'package:three_dart_flutterflow/three3d/lights/light.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/web_gl_render_target.dart';
 
 class LightShadow {
   Camera? camera;

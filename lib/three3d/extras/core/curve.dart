@@ -1,6 +1,6 @@
-import 'package:three_dart/three3d/extras/core/shape.dart';
-import 'package:three_dart/three3d/extras/curves/line_curve.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/extras/core/shape.dart';
+import 'package:three_dart_flutterflow/three3d/extras/curves/line_curve.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 /// Extensible curve object.
 ///

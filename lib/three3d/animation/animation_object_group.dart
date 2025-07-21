@@ -1,7 +1,7 @@
-import 'package:three_dart/three3d/animation/property_binding.dart';
-import 'package:three_dart/three3d/dart_helpers.dart';
-import 'package:three_dart/three3d/math/math_utils.dart';
-import 'package:three_dart/three3d/objects/mesh.dart';
+import 'package:three_dart_flutterflow/three3d/animation/property_binding.dart';
+import 'package:three_dart_flutterflow/three3d/dart_helpers.dart';
+import 'package:three_dart_flutterflow/three3d/math/math_utils.dart';
+import 'package:three_dart_flutterflow/three3d/objects/mesh.dart';
 
 ///
 /// A group of objects that receives a shared animation state.

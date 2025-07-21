@@ -1,5 +1,5 @@
-import 'package:three_dart/three3d/textures/texture.dart';
-import 'package:three_dart/three3d/textures/image_element.dart';
+import 'package:three_dart_flutterflow/three3d/textures/texture.dart';
+import 'package:three_dart_flutterflow/three3d/textures/image_element.dart';
 
 class CompressedTexture extends Texture {
   CompressedTexture(

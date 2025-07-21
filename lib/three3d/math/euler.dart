@@ -1,8 +1,8 @@
-import 'package:three_dart/three3d/math/math.dart';
-import 'package:three_dart/three3d/math/math_utils.dart';
-import 'package:three_dart/three3d/math/matrix4.dart';
-import 'package:three_dart/three3d/math/quaternion.dart';
-import 'package:three_dart/three3d/math/vector3.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/math/math_utils.dart';
+import 'package:three_dart_flutterflow/three3d/math/matrix4.dart';
+import 'package:three_dart_flutterflow/three3d/math/quaternion.dart';
+import 'package:three_dart_flutterflow/three3d/math/vector3.dart';
 
 class Euler {
   static const String defaultOrder = 'XYZ';

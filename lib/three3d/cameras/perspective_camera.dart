@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:three_dart/three3d/cameras/camera.dart';
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/cameras/camera.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class PerspectiveCamera extends Camera {
   // near 设置太小 导致 画面异常 精度问题？ 浮点运算问题？？

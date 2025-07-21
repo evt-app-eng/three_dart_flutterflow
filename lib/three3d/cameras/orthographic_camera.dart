@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:three_dart/three3d/cameras/camera.dart';
-import 'package:three_dart/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/cameras/camera.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
 
 class OrthographicCamera extends Camera {
   OrthographicCamera([num left = -1, num right = 1, num top = 1, num bottom = -1, num near = 0.1, num far = 2000])

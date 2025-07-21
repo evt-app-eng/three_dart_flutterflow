@@ -1,7 +1,7 @@
-import 'package:three_dart/three3d/math/index.dart';
-import 'package:three_dart/three3d/renderers/shaders/shader_chunk.dart';
-import 'package:three_dart/three3d/renderers/shaders/uniforms_lib.dart';
-import 'package:three_dart/three3d/renderers/shaders/uniforms_utils.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/shaders/shader_chunk.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/shaders/uniforms_lib.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/shaders/uniforms_utils.dart';
 
 Map<String, dynamic> shaderLibStandard = {
   "uniforms": mergeUniforms([

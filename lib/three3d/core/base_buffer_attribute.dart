@@ -1,6 +1,6 @@
-import 'package:flutter_gl/flutter_gl.dart';
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/core/interleaved_buffer.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/core/interleaved_buffer.dart';
 
 abstract class BaseBufferAttribute<TData extends NativeArray> {
   late TData array;

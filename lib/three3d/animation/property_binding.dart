@@ -1,8 +1,8 @@
 // Characters [].:/ are reserved for track binding syntax.
-import 'package:three_dart/three3d/animation/animation_object_group.dart';
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/materials/index.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/animation/animation_object_group.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/materials/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 var _reservedCharsRe = '\\[\\]\\.:\\/';
 var _reservedRe = RegExp("[$_reservedCharsRe]");

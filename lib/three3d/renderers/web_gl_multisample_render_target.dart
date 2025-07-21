@@ -1,5 +1,5 @@
-import 'package:three_dart/extra/console.dart';
-import 'package:three_dart/three3d/renderers/web_gl_render_target.dart';
+import 'package:three_dart_flutterflow/extra/console.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/web_gl_render_target.dart';
 
 class WebGLMultisampleRenderTarget extends WebGLRenderTarget {
   @override

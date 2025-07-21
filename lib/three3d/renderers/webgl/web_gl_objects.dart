@@ -1,7 +1,7 @@
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/objects/index.dart';
-import 'package:three_dart/three3d/renderers/webgl/index.dart';
-import 'package:three_dart/three3d/weak_map.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/objects/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/index.dart';
+import 'package:three_dart_flutterflow/three3d/weak_map.dart';
 
 class WebGLObjects {
   var updateMap = WeakMap();

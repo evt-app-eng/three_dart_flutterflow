@@ -1,7 +1,7 @@
-import 'package:flutter_gl/flutter_gl.dart';
-import 'package:three_dart/three3d/core/index.dart';
-import 'package:three_dart/three3d/extras/index.dart';
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
+import 'package:three_dart_flutterflow/three3d/core/index.dart';
+import 'package:three_dart_flutterflow/three3d/extras/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 class ExtrudeGeometry extends BufferGeometry {
   ExtrudeGeometry(List<Shape> shapes, Map<String, dynamic> options) : super() {

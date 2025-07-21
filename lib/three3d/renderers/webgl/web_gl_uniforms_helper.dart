@@ -1,9 +1,9 @@
 import 'dart:typed_data';
 
-import 'package:flutter_gl/flutter_gl.dart';
-import 'package:three_dart/three3d/math/index.dart';
-import 'package:three_dart/three3d/renderers/webgl/index.dart';
-import 'package:three_dart/three3d/textures/index.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/webgl/index.dart';
+import 'package:three_dart_flutterflow/three3d/textures/index.dart';
 
 var emptyTexture = Texture(null, null, null, null, null, null, null, null, null, null);
 var emptyArrayTexture = DataArrayTexture(null);

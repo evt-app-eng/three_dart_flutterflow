@@ -1,7 +1,7 @@
-import 'package:three_dart/three3d/core/object_3d.dart';
-import 'package:three_dart/three3d/lights/light.dart';
-import 'package:three_dart/three3d/lights/point_light_shadow.dart';
-import 'package:three_dart/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/core/object_3d.dart';
+import 'package:three_dart_flutterflow/three3d/lights/light.dart';
+import 'package:three_dart_flutterflow/three3d/lights/point_light_shadow.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
 
 class PointLight extends Light {
   PointLight(

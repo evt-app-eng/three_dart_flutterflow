@@ -1,9 +1,9 @@
 import 'dart:convert';
 
-import 'package:three_dart/three3d/materials/material.dart';
-import 'package:three_dart/three3d/renderers/shaders/index.dart';
-import 'package:three_dart/three3d/renderers/shaders/shader_chunk/default_fragment.glsl.dart';
-import 'package:three_dart/three3d/renderers/shaders/shader_chunk/default_vertex.glsl.dart';
+import 'package:three_dart_flutterflow/three3d/materials/material.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/shaders/index.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/shaders/shader_chunk/default_fragment.glsl.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/shaders/shader_chunk/default_vertex.glsl.dart';
 
 class ShaderMaterial extends Material {
   ShaderMaterial([Map<String, dynamic>? parameters]) : super() {
